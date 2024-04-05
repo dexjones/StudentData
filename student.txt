@@ -1,0 +1,10 @@
+Name: Adam, Address: Laramie, WY 82072, GPA: 3.6
+Name: Ben Stiller, Address: Laramie, WY 82072, GPA: 3.8
+Name: Charlie Brown, Address: Laramie, WY 82072, GPA: 3.99
+Name: Fred Scoob, Address: Laramie, WY 82072, GPA: 2.655
+Name: Greg Hendrix, Address: Cheyenne, WY 82007, GPA: 2.9
+Name: Han, Address: Laramie, WY 82072, GPA: 1.5
+Name: Hanna Hanni, Address: Laramie, WY 82072, GPA: 4.0
+Name: Jane, Address: Laramie, WY 82072, GPA: 4.0
+Name: Michael Scott, Address: Ft Collins, CO, GPA: 2.0
+Name: Zero Baskins, Address: Laramie, WY 82072, GPA: 3.5
